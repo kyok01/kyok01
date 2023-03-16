@@ -27,4 +27,5 @@ Here are some ideas to get you started:
 </picture>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyok01&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/kyok01_japan/contributions.svg)](http://qiita.com/kyok01_japan)
