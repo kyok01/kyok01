@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kyok01&theme=solarized
+
+# My Qiita contributions
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/kyok01_japan/contributions.svg)](http://qiita.com/kyok01_japan)
