@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=kyok01&show_icons=true" />
 </picture>
 
-# My Qiita contributions
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyok01&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/kyok01_japan/contributions.svg)](http://qiita.com/kyok01_japan)
